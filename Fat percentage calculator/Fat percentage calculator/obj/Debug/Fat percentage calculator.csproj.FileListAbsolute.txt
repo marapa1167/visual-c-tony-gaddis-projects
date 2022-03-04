@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe.config
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.exe
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\bin\Debug\Fat percentage calculator.pdb
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Form1.resources
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat_percentage_calculator.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.exe
+C:\Users\Mariola\source\repos\Fat percentage calculator\Fat percentage calculator\obj\Debug\Fat percentage calculator.pdb
