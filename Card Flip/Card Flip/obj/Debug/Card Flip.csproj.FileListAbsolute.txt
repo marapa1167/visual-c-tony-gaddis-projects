@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe.config
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.exe
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\bin\Debug\Card Flip.pdb
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.Form1.resources
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card_Flip.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.exe
+C:\Users\Mariola\source\repos\Card Flip\Card Flip\obj\Debug\Card Flip.pdb
