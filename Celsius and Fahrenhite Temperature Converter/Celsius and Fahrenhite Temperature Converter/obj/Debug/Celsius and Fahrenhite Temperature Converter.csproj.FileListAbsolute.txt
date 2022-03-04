@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\bin\Debug\Celsius and Fahrenhite Temperature Converter.exe.config
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\bin\Debug\Celsius and Fahrenhite Temperature Converter.exe
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\bin\Debug\Celsius and Fahrenhite Temperature Converter.pdb
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius and Fahrenhite Temperature Converter.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius_and_Fahrenhite_Temperature_Converter.Form1.resources
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius_and_Fahrenhite_Temperature_Converter.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius and Fahrenhite Temperature Converter.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius and Fahrenhite Temperature Converter.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius and Fahrenhite Temperature Converter.exe
+C:\Users\Mariola\source\repos\Celsius and Fahrenhite Temperature Converter\Celsius and Fahrenhite Temperature Converter\obj\Debug\Celsius and Fahrenhite Temperature Converter.pdb

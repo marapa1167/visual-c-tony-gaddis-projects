@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe.config
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.exe
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\bin\Debug\Change Counter.pdb
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.ChangeCounter.resources
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change_Counter.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.exe
+C:\Users\Mariola\source\repos\Change Counter\Change Counter\obj\Debug\Change Counter.pdb
