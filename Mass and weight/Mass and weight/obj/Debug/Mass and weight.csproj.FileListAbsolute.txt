@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\bin\Debug\Mass and weight.exe.config
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\bin\Debug\Mass and weight.exe
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\bin\Debug\Mass and weight.pdb
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass and weight.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass_and_weight.Form1.resources
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass_and_weight.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass and weight.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass and weight.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass and weight.exe
+C:\Users\Mariola\source\repos\Mass and weight\Mass and weight\obj\Debug\Mass and weight.pdb

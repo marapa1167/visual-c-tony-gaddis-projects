@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe.config
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.exe
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\bin\Debug\Fuel Economy.pdb
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Form1.resources
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel_Economy.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.exe
+C:\Users\Mariola\source\repos\Fuel Economy\Fuel Economy\obj\Debug\Fuel Economy.pdb
