@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\bin\Debug\Change for a dollar.exe.config
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\bin\Debug\Change for a dollar.exe
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\bin\Debug\Change for a dollar.pdb
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change for a dollar.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change_for_a_dollar.Form1.resources
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change_for_a_dollar.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change for a dollar.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change for a dollar.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change for a dollar.exe
+C:\Users\Mariola\source\repos\Change for a dollar\Change for a dollar\obj\Debug\Change for a dollar.pdb

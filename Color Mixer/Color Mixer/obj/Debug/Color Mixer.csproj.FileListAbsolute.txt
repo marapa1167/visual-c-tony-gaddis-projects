@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe.config
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.exe
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\bin\Debug\Color Mixer.pdb
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Form1.resources
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color_Mixer.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.exe
+C:\Users\Mariola\source\repos\Color Mixer\Color Mixer\obj\Debug\Color Mixer.pdb
