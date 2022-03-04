@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\bin\Debug\Color Theme.exe.config
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\bin\Debug\Color Theme.exe
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\bin\Debug\Color Theme.pdb
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color Theme.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color_Theme.Form1.resources
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color_Theme.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color Theme.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color Theme.exe
+C:\Users\Mariola\source\repos\Color Theme\Color Theme\obj\Debug\Color Theme.pdb
