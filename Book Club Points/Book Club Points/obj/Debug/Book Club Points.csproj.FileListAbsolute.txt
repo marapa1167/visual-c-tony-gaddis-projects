@@ -1,0 +1,10 @@
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe.config
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\bin\Debug\Book Club Points.exe
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\bin\Debug\Book Club Points.pdb
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csprojAssemblyReference.cache
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Form1.resources
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book_Club_Points.Properties.Resources.resources
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.GenerateResource.cache
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book Club Points.csproj.CoreCompileInputs.cache
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book Club Points.exe
+C:\Users\Mariola\source\repos\Book Club Points\Book Club Points\obj\Debug\Book Club Points.pdb
